@@ -1,7 +1,5 @@
 ## 1. Git and GitHub 
- Completely new knowledge for me, it is interesting, I will continue
- 
-![Basic GIT](photo1.jpg)
-![Remote repositories](photo2.jpg)
+Okay, GIT knowledge was completely new to me, at first it was difficult to turn all theoretical knowledge into practical attempts to push the task, but over time I figured it out, let's move on
+
 ***
 
