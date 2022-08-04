@@ -12,6 +12,10 @@ Good night, everybody:) Consolidated the knowledge, now it is easier to apply it
 
 [link into pictures_GIT](/task_git_collaboration)
 ***
+## 4. Intro to HTML and CSS
+I was familiar with HTML and CSS before, so after taking the courses, I repeated my knowledge.
+[link into pictures_GIT](/task_html_css_intro/photo_2022-08-04_17-58-34.jpg)
+***
 
 
 
