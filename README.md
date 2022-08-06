@@ -14,8 +14,14 @@ Good night, everybody:) Consolidated the knowledge, now it is easier to apply it
 ***
 ## 4. Intro to HTML and CSS
 I was familiar with HTML and CSS before, so after taking the courses, I repeated my knowledge.
-[link into pictures_GIT](/task_html_css_intro/photo_2022-08-04_17-58-34.jpg)
+
+[link into pictures_HTML_CSS](/task_html_css_intro)
 ***
 
+## 5. Responsive Web Design
+An interesting article about Responsive Web Design, I had dealt with it before, but I reminded its one more time.
+Flexbox is easier for me than Grid (the last levels of Grid Garden were breaking my head:) )
 
+[link into pictures_Responsive_Web_Design](/task_responsive_web_design)
+***
 
