@@ -1,4 +1,4 @@
-## 1. Git and GitHub 
+## 1. Git and GitHub
 Okay, GIT knowledge was completely new to me, at first it was difficult to turn all theoretical knowledge into practical attempts to push the task, but over time I figured it out, let's move on
 
 ***
@@ -24,4 +24,13 @@ Flexbox is easier for me than Grid (the last levels of Grid Garden were breaking
 
 [link into pictures_Responsive_Web_Design](/task_responsive_web_design)
 ***
+## 6. Hooli-style-Popup
+I don't like layout, but it was interesting to work with it
+[Demo](https://conversee12.github.io/Hooli-style-Popup/)
+[Code Base](https://github.com/Conversee12/Hooli-style-Popup.git)
 
+## 7. JS Basics
+Oooooh YEAHH, i did it! The theory was not very difficult to learn, because I had already studied js before, but I had to sit for a long time on problems with algorithms, but I am super glad, because I started to understand everything better.
+
+[link into pictures_JS_Basics](/task_js_basics)
+***
