@@ -34,3 +34,16 @@ Oooooh YEAHH, i did it! The theory was not very difficult to learn, because I ha
 
 [link into pictures_JS_Basics](/task_js_basics)
 ***
+
+## 8. Document Object Model
+
+[Demo](https://conversee12.github.io/DOM-API/)
+[Code Base](https://github.com/Conversee12/DOM-API.git)
+***
+
+## 9. A Tiny JS World
+This assignment helped me to improve my knowledge about DOM methods.
+
+[Demo](https://conversee12.github.io/a-tiny-JS-world/)
+[Code Base](https://github.com/Conversee12/a-tiny-JS-world.git)
+***
