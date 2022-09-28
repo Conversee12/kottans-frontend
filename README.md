@@ -36,13 +36,31 @@ Oooooh YEAHH, i did it! The theory was not very difficult to learn, because I ha
 ***
 
 ## 8. Document Object Model
+My first experience with DOM, was interesting!
 
 [Demo](https://conversee12.github.io/DOM-API/)
 [Code Base](https://github.com/Conversee12/DOM-API.git)
+
+[link into pictures_DOM](/task_DOM)
 ***
 
 ## 9. A Tiny JS World
 This assignment helped me to improve my knowledge about DOM methods.
+
+[Demo](https://conversee12.github.io/a-tiny-JS-world/)
+[Code Base](https://github.com/Conversee12/a-tiny-JS-world.git)
+***
+
+## 10. Object-Oriented JavaScript
+
+[Demo](https://conversee12.github.io/frontend-nanodegree-arcade-game/)
+[Code Base](https://github.com/Conversee12/frontend-nanodegree-arcade-game.git)
+
+[link into pictures_OOP_JS](/task_OOP_JS)
+***
+
+## 11. OOP exercise
+I really happy, that now i know OOP principles. I liked this code structure!
 
 [Demo](https://conversee12.github.io/a-tiny-JS-world/)
 [Code Base](https://github.com/Conversee12/a-tiny-JS-world.git)
